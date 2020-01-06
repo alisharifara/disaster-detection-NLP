@@ -2,11 +2,12 @@
 
 Following are the steps to create the text classification model:
 
-01. Importing Libraries
-02. Importing The dataset
-03. Text Preprocessing
-04. Converting Text to Numbers
-05. Training and Test Sets
-06. Training Text Classification Model and Predicting Sentiment
-07. Evaluating The Model
-08. Saving and Loading the Model
+01. Importing the required libraries
+02. Importing the dataset
+03. Text preprocessing
+04. Converting text to numbers
+05. Spliting data into training and test sets
+06. Training text classification model and predicting Sentiment
+07. Evaluating the model
+08. Saving the model
+09. Load the model
