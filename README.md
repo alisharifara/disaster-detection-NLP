@@ -1,4 +1,4 @@
-# disaster-detection-NLP
+# Tweet disaster detection using NLP
 
 Following are the steps to create the text classification model:
 
