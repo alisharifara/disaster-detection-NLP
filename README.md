@@ -15,7 +15,7 @@ Following are the steps to create the text classification model:
 
 
 
-## Just as a reference for regex
+## Just as a reference for regex (Since I have used it in the text processing)
 <ul>
     <li><b style="color:red">. </b>: Wildcard, matches a single character</li>
     <li><b style="color:red">^ </b>: Indicates start of a string</li>
